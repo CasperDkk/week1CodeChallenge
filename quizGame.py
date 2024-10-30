@@ -1,7 +1,7 @@
 import random
 
 def quiz_game():
-    print("Welcome to the Quiz Game!")
+    print("Test your wits with this quiz!")
     questions = {
         "What is the output of `print('Hello, World!'[7])`?": 
         {'options': ["A) Hello", "B) W", "C) r", "D) o"],
