@@ -7,6 +7,7 @@ def random_joke_generator():
     "How many programmers does it take to change a light bulb? None, that's a hardware problem!",
     "Why do Java developers wear glasses? Because they don't see sharp!",
     "Why was the JavaScript developer sad? Because he didn't know how to 'null' his feelings.",
+    "Why are all bad software engineers constipated? Because they need to do many pushes and their releases are delayed.",
     "What do you call a snake that writes code? A Python programmer!",
     "Why do Python programmers prefer snakes? Because they don't like to deal with 'bugs'!",
     "Why did the computer go to therapy? It had too many bytes!",
